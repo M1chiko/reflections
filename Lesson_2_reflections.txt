@@ -1,0 +1,2 @@
+Finally know how to make my own repository :)
+Stages are usefull. We can commit just files we need to, not all. So it keep things clear. Changes are separated by ideas.
